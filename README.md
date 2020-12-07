@@ -1,2 +1,2 @@
 # LendingClubSemantics
-A project That I had the pleasure to work on with https://gitlab.com/C1ARKGABLE Gable Brown for our Machine Learning Course.
+A project That I had the pleasure to work with https://gitlab.com/C1ARKGABLE Gable Brown on for our Machine Learning Course.
